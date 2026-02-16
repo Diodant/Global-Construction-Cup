@@ -20,7 +20,6 @@ import Gallery_18 from '../img/gallery/gallery_18.jpg';
 import Gallery_19 from '../img/gallery/gallery_19.jpg';
 import Gallery_20 from '../img/gallery/gallery_20.jpg';
 import Gallery_21 from '../img/gallery/gallery_21.jpg';
-import Gallery_22 from '../img/gallery/gallery_22.jpg';
 import Gallery_23 from '../img/gallery/gallery_23.jpg';
 import Gallery_24 from '../img/gallery/gallery_24.jpg';
 import Gallery_25 from '../img/gallery/gallery_25.jpg';
@@ -48,7 +47,6 @@ const images = [
   Gallery_19,
   Gallery_20,
   Gallery_21,
-  Gallery_22,
   Gallery_23,
   Gallery_24,
   Gallery_25,

@@ -41,7 +41,7 @@ const Footer = () => {
 
     <footer className="footer">
       <div className="footer-container">
-        <div className="footer-left">© Международный конкурс
+        <div className="footer-left">© Международный чемпионат
         "Global Construction Cup" 2020</div>
         <div className="footer-right">Все права защищены</div>
       </div>
